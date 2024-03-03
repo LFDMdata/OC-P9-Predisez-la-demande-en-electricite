@@ -4,7 +4,7 @@ Formation Openclassrooms - Projet n°9 - Prédisez la demande en éléctricité 
 
 ## Prérequis
 
-Pour effectuer ce projet, il a été nécessaire de manipuler les données en Python, connaître la modélisation de type régression linéaire, ainsi que les différentes modélisations de séries temporelles (AR, MA, ARMA, ARIMA, etc.) 
+Pour effectuer ce projet, il est nécessaire de manipuler les données en Python, connaître la modélisation de type régression linéaire, ainsi que les différentes modélisations de séries temporelles (AR, MA, ARMA, ARIMA, etc.) 
 
 ## Mise en situation
 
